@@ -1,0 +1,16 @@
+{
+  "name": "minecraftrestore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "minecraft-folder-path": "^1.2.0",
+    "mkdirp": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tsutoringo",
+  "license": "ISC"
+}
